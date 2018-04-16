@@ -16,4 +16,4 @@ dineen@laptop:/mnt/c/Users/dinee/Desktop/wats1030-intro-to-unix$ grep -r Zardoz
 challenge_files/test2/explicabo_dolor.txt:Aperiam ipsam perferendis ut non est. Harum numquam officia veniam ea vel dolor. Unde vel vitae minima optio quas aliquam vel. Enim voluptatem autem culpa saepe. Alias ipsa Zardoz praesentium occaecati qui quaerat voluptas.
 ```
 
-I'm guessing the answer is the folder:  challenge_files/test2/explicabo_dolor.txt
+My guess: the file "explicabo_dolor.txt"
